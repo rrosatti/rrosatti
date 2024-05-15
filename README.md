@@ -2,8 +2,7 @@
 
 </br>
 
-Software Engineer with 3+ years of experience, mostly in Mobile Development using different technologies, such as React Native (Typescript, React Hooks, GraphQL/Apollo), Flutter (Dart) and iOS (Swift).
-Familiarity with both Linux and OSX. Always interested in dive into new technologies and face new challenges.
+Software Engineer with 5+ years of experience, mostly in Mobile Development using different technologies, such as React Native (Typescript, React Hooks, GraphQL/Apollo, REST API, React Query, i18next, React Native Firebase, React Navigation, Styled Components / StyleSheet, Yup, Native Modules implemented for iOS and Android, Bitrise for build & deploy), Flutter (Dart) and iOS (Swift). Familiarity with both Linux and OSX. Interested in dive into new technologies and face new challenges.
 
 ## GitHub Stats
 
