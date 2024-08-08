@@ -8,7 +8,7 @@ Software Engineer with 5+ years of experience, mostly in Mobile Development usin
 
 </br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rrosatti&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-theta-six-10.vercel.app/api?username=rrosatti&show_icons=true)](https://github.com/rrosatti/github-readme-stats)
 
 ## How to reach me
 
